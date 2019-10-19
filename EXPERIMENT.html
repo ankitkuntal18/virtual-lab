@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title> VIRTUAL LAB </title>
+<link rel="stylesheet" type="text/css" href="css/style5.css">
+ 
+<script type="text/javascript">
+function multi()
+{
+
+ first=parseInt(myform.first.value);
+ second=parseInt(myform.second.value);
+ result= first * second;
+myform.result.value=result;
+}
+
+
+
+function calc()
+{
+
+first=parseInt(myform.first.value);
+second=parseInt(myform.second.value);
+
+result=first^second; 
+myform.result3.value=result;
+
+
+
+
+
+}
+function calc2()
+{
+
+
+
+result3=parseInt(myform.result3.value);
+carry=parseInt(myform.carry.value);
+
+result=result3^carry; 
+myform.result2.value=result;
+
+
+}
+function calc3()
+{
+
+result2=parseInt(myform.result2.value);
+result=parseInt(myform.result.value);
+
+result1=result2+result; 
+myform.result4.value=result1;
+
+
+}
+function calc4()
+{
+
+ first=parseInt(myform.first1.value);
+ second=parseInt(myform.first2.value);
+ sum= first + second;
+ result9=(sum>>>0).toString(2)
+myform.result5.value=result9;
+}
+
+</script>
+
+</head>
+
+<body>
+<header>
+<p> <a name="EXPERIMENT"></a></p><h2><a name="EXPERIMENT">EXPERIMENT:</a></h2> <p></p>
+
+
+<form name="myform">
+
+<h4>1.ENTER THE FIRST INPUT:</h4>
+
+
+<select>
+<option value="0000">0=0000</option>
+<option value="0001">1=0001</option>
+<option value="0010">2=0010</option>
+<option value="0011">3=0011</option>
+<option value="0100">4=0100</option>
+<option value="0101">5=0101</option>
+<option value="0110">6=0110</option>
+<option value="0111">7=0111</option>
+<option value="1000">8=1000</option>
+<option value="1001">9=1001</option>
+<option value="1010">10=1010</option>
+<option value="1011">11=1011</option>
+<option value="1100">12=1100</option>
+<option value="1101">13=1101</option>
+<option value="1110">14=1110</option>
+<option value="1111">15=1111</option>
+</select>
+
+<br>
+
+<h4>2.ENTER THE SECOND INPUT:</h4>
+
+<select>
+<option value="0000">0=0000</option>
+<option value="0001">1=0001</option>
+<option value="0010">2=0010</option>
+<option value="0011">3=0011</option>
+<option value="0100">4=0100</option>
+<option value="0101">5=0101</option>
+<option value="0110">6=0110</option>
+<option value="0111">7=0111</option>
+<option value="1000">8=1000</option>
+<option value="1001">9=1001</option>
+<option value="1010">10=1010</option>
+<option value="1011">11=1011</option>
+<option value="1100">12=1100</option>
+<option value="1101">13=1101</option>
+<option value="1110">14=1110</option>
+<option value="1111">15=1111</option>
+</select>
+</div>
+
+<div style="position: fixed; top: 249px; left:234px;">
+Enter the First number(Ai) : <input type="number" name="first" min="0" max="1" style="position: fixed; top: 253px; left:425px;"><br><br>
+</div>
+<div style="position: fixed; top: 299px; left:225px;">
+Enter the Second number(Bi): <input type="number" name="second" min="0" max="1"style="position: fixed; top: 296px; left:425px;"><br><br>
+Enter the First number(Ci) : <input type="number" name="carry" min="0" max="1" style="position: fixed; top: 338px; left:424px;"><br><br>
+
+</div>
+<div style="position: fixed; top:427px; left:1164px;">
+<h3>carry generator(Gi.)</h3>
+<input type="button" name="" value="Gi" onclick="multi();">
+</div>
+<div style="position: fixed; top:187px; left:747px;">
+<h3> propagator(Pi.) </h3></br>
+
+
+<input type="button" name="" value="Pi" onclick="calc();">
+</div >
+<div style="position: fixed; top:281px; left:1111px;">
+<input type="button" name="" value="Pi.Ci" onclick="calc2();"><br><br>
+</br><input type"text" name="result2">
+</div>
+<div style="position: fixed; top:299px; left:730px;">
+</br><input type"text" name="result3">
+</div>
+<div style="position: fixed; top:486px; left:1195px;" >
+<input type"text" name="result"></br>
+</div>
+<div>
+<p> <h3>TO FIND C(i+1):</h3>               </p>
+
+<input type="button" name="" value="C(i+1)" onclick="calc3();"><br><br>
+<input type"text" name="result4"></br>
+
+
+</div>
+<div style="position: fixed; top: 430px; left:80px;" >
+Enter the number : <input type="number" name="first1"  ><br><br>
+Enter the number : <input type="number" name="first2"  ><br><br>
+<input type="button" name="" value="sum" onclick="calc4();"><br><br>
+<input type"text" name="result5"></br>
+
+
+
+</div>
+
+</legend>
+
+
+
+
+
+
+
+
+
+</form>
+</header>
+
+</body></html>
