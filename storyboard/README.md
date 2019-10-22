@@ -15,7 +15,7 @@ The number of gate levels for the carry propagation can be found from the circui
 
 
 
-<img Src="storyboard/image.jpg" width="600" height="400" title="carry lookahead adder"></br>
+![and](mindmap/image2.jpg)</br>
 <br>
 
 #### 2.1 Set the Visual Stage Description:
