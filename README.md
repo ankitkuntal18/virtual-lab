@@ -24,8 +24,8 @@ SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
 1 |  Mr Dhananjay Bisen  | Faculty |Information Technology | Rajkiya Engineering College Banda |bisen.it2007@gmail.com 
 2 |Ms Pushpanjali Gupta| Student | Information Technology | Rajkiya Engineering College Banda  |p8707583503@gmail.com
-3 | Ms Vaishali Maurya | Student | Information Technology  | Rajkiya Engineering College Banda |vaishalimaurya1200@gmail.com
-4 | Ms Somya Sahu  | Student |   Information Technology| Rajkiya Engineering College Banda  |sahusomya2000@gmail.com
+3 | Ms Somya Sahu | Student | Information Technology  | Rajkiya Engineering College Banda |sahusomya2000@gmail.com
+4 | Ms Vaishali Maurya  | Student |   Information Technology| Rajkiya Engineering College Banda  |vaishalimaurya1200@gmail.com
 5 | Mr Ankit Kumar  | Student | Information Technology | Rajkiya Engineering College Banda  |ankitkuntal18@gmail.com
 
 
