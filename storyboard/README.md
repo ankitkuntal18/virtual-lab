@@ -12,6 +12,7 @@ Choose the input A and B. select the last digit of A and B which will be denoted
 To reduce the computation time, there are faster ways to add two binary numbers by using carry lookahead adders. They work by creating two signals P and G known to be Carry Propagator and Carry Generator. The carry propagator is propagated to the next level whereas the carry generator is used to generate the output carry, regardless of input carry.
         
 The number of gate levels for the carry propagation can be found from the circuit of full adder. The signal from input carry C(in) to output carry C(out) requires an AND gate and an OR gate, which constitutes two gate levels. So, if there are four full adders in the parallel adder, the output carry C5 would have 2 X 4 = 8 gate levels from C1 to C5. For an n-bit parallel adder, there are 2n gate levels to propagate through.
+step 1:
 
 
 
@@ -44,10 +45,10 @@ ANS:-A</br>
 
 ### 6. Formulas and equations used :
 
-Pi=Ai*Bi~ +Ai~ *Bi
-Gi=Ai*Bi
-Si=Pi*Ci~+Pi~*Ci
-C(i+1)=Gi + Pi*Ci
+Pi=Ai*Bi~ +Ai~ *Bi</br>
+Gi=Ai*Bi</br>
+Si=Pi*Ci~+Pi~*Ci</br>
+C(i+1)=Gi + Pi*Ci</br>
 
 
 
