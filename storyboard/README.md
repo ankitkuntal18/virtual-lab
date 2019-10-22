@@ -27,18 +27,18 @@ Input the four digits value in A and B. Select the respective Ai and Bi. enter t
 
 ### 5. Challenges and Questions
 
-Q1. Which one of the following is better way to compute sum in less time?
-a)half adder
-b)full adder
-c)n bit parllel adder
-d)carry lookahead adder
-ANS:-D
-Q2. Give the correct formula of Pi and Gi?
-a)Ai·BiandAi⊕Bi
-b)Ai+BiandAi.Bi
-c)Ai⊕BiandAiBi~+Ai~Bi
-d)Ai*BiandAiBi~*Ai~Bi
-ANS:-A
+Q1. Which one of the following is better way to compute sum in less time?</br>
+a)half adder</br>
+b)full adder</br>
+c)n bit parllel adder</br>
+d)carry lookahead adder</br>
+ANS:-D</br>
+Q2. Give the correct formula of Pi and Gi?</br>
+a)Ai·BiandAi⊕Bi</br>
+b)Ai+BiandAi.Bi</br>
+c)Ai⊕BiandAiBi~+Ai~Bi</br>
+d)Ai*BiandAiBi~*Ai~Bi</br>
+ANS:-A</br>
 
 
 
