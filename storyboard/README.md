@@ -36,18 +36,18 @@ ANS:-D</br>
 Q2. Give the correct formula of Pi and Gi?</br>
 a)Ai·BiandAi⊕Bi</br>
 b)Ai+BiandAi.Bi</br>
-c)Ai⊕BiandAiBi~+Ai~Bi</br></br>
-d)Ai*BiandAiBi~*Ai~Bi</br>
+c)Ai⊕BiandAi+Bi
+d)Ai⊕BiandAi-Bi</br>
 ANS:-A</br>
 
 
 
 ### 6. Formulas and equations used :
 
-Pi=Ai*Bi~ +Ai~ *Bi</br>
-Gi=Ai*Bi</br>
-Si=Pi*Ci~+Pi~*Ci</br>
-C(i+1)=Gi + Pi*Ci</br>
+Pi=Ai*Bi~ +Ai~ *Bi
+Gi=Ai*Bi
+Si=Pi*Ci~+Pi~*Ci
+C(i+1)=Gi + Pi*Ci
 
 
 
