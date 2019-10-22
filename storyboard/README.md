@@ -36,7 +36,7 @@ ANS:-D</br>
 Q2. Give the correct formula of Pi and Gi?</br>
 a)Ai·BiandAi⊕Bi</br>
 b)Ai+BiandAi.Bi</br>
-c)Ai⊕BiandAi+Bi
+c)Ai⊕BiandAi+Bi</br>
 d)Ai⊕BiandAi-Bi</br>
 ANS:-A</br>
 
