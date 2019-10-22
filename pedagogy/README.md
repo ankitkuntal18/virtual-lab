@@ -9,7 +9,7 @@
 :--|:--|
 <b> Lab | <b> Information technolgy
 <b> Experiment|     <b> CARRY LOOKAHEAD ADDER
-<h4> [1. Focus Area:](#LO)
+<h4> [1. Focus Area:]
 <h4> [2. Learning Objectives: ](#LO)
 <h4> [3. About the Experiment:](#AQ)
 <h4> [5. Instructional Strategy:](#SI)
