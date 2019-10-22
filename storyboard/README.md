@@ -5,7 +5,7 @@ Experiment 1: carry look ahead adder
 ### 1. Story Outline:
 
 Choose the input A and B. select the last digit of A and B which will be denoted as Ai and Bi. choose another input Ci (0,1). then with the help of logic gates Pi is calculated. now the array input will be generated as Gi. now the value of sum and carry will be displayed as Pi and Ci through Exclusive OR gate.
-
+![OOO](mindmap/GIF.gif)
 
 ### 2. Story:
 
