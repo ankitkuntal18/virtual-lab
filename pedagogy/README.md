@@ -16,7 +16,8 @@
 <hr>
 
 <a name="LO"></a>
-#### 1. Focus Area : Our experiment is all about carry adder for each adder block for which the two blocks are added .It reduces the propagation delay by more complex hardware. It is implemented with the help of logic gates.
+#### 1. Focus Area :
+Our experiment is all about carry adder for each adder block for which the two blocks are added .It reduces the propagation delay by more complex hardware. It is implemented with the help of logic gates.
 
 <br/>
 <div align="right">
