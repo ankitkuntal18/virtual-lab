@@ -10,7 +10,7 @@
 
 
 <h5> About the Experiment : </h5>
-DEsign of Carry Look Ahead Adder
+Design of Carry Look Ahead Adder
 
 <b>Name of Developer | <b> Mr Dhananjay Bisen
 :--|:--|
