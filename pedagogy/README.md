@@ -27,7 +27,7 @@ Our experiment is all about the addition of two binary numbers. As in ripple car
 <hr>
 
 <a name="LO"></a>
-#### 2. Learning Objectives and Cognitive LeveL:
+#### 2. Learning Objectives and Cognitive Level:
 
 To perform the task of addition of two binary number in less time.
 The usage of AND, OR and X-OR gates.
