@@ -10,7 +10,7 @@
 
 
 <h5> About the Experiment : </h5>
-Design of Carry Look Ahead Adder
+To calculate addition of two binary numbers with the help of Carry look ahead adder
 
 <b>Name of Developer | <b> Mr Dhananjay Bisen
 :--|:--|
