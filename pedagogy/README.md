@@ -22,7 +22,7 @@ Our experiment is all about the addition of two binary numbers. As in ripple car
 <br/>
 
 
-<h4>1.3 Learning Objectives and Cognitive Level:</h4>
+<h4>1.2 Learning Objectives and Cognitive Level:</h4>
 
 To perform the task of addition of two binary number in less time.
 The usage of AND, OR and X-OR gates.
@@ -75,7 +75,7 @@ C(i+1) =Gi + Pi*Ci
 <hr>
 
 <a name="SI"></a>
-#### 5. Task & Assessment Questions:
+#### 3. Task & Assessment Questions:
 
 <div>
 <br>
@@ -109,4 +109,4 @@ Sr.No | Learning Objective to be met | Tasks to be performed by the students | A
 Sr.No | What students will do? | What Simulator will do ? | Purpose of the task
 :--|:--|:--|:--:
 1.| Student will click on Simulation tab | Simulator will ask for input of two binary numbe r after that input of first number(Ai),input of second number(Bi),and at last input of carry(Ci) | This will test give the resultent sum(Si)  of the experiment 
-2.| Student will click on sum button in  Simulation tab | it will give the sum both binary numbers | This will five the total sum of  experiment. 
+2.| Student will click on sum button in  Simulation tab | it will give the sum both binary numbers | This will give the total sum in the experiment. 
