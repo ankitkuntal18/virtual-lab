@@ -4,8 +4,8 @@ Experiment 1: carry look ahead adder
 
 ### 1. Story Outline:
 
-Choose the input A and B. select the last digit of A and B which will be denoted as Ai and Bi. choose another input Ci (0,1). then with the help of logic gates Pi is calculated. now the array input will be generated as Gi. now the value of sum and carry will be displayed as Pi and Ci through Exclusive OR gate.
-![OOO](mindmap/GIF.gif)
+The experiment is based on Carry Look-ahead Adder In ripple carry adders, for each adder block, the two bits that are to be added are available instantly. However, each adder block waits for the carry to arrive from its previous block. So, it is not possible to generate the sum and carry of any block until the input carry is known. The (i)th block waits for the (i-1)th block to produce its carry. So there will be a considerable time delay which is carry propagation delay.
+
 
 ### 2. Story:
 
