@@ -28,12 +28,12 @@ step:
 
 
 
-![and](mindmap/image2.jpg)</br>
+
 <br>
 
 #### 2.1 Set the Visual Stage Description:
 Inputs are given visually to the gates. Both the inputs entered passes through the gates and performs the operation of sum and carry. Then the respective outputs are displayed visually to the user so that the user can understand the experiment properly. 
-
+![and](mindmap/image2.jpg)</br>
 #### 2.3 Set the Pathway Activities:,
 
 Input the four digits value in A and B. Select the respective Ai and Bi. enter the value of Ci and hence the operation is performed. Now the sum and carry is displays.
