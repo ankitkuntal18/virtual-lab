@@ -82,7 +82,7 @@ C(i+1) =Gi + Pi*Ci
 
 Sr.No | Learning Objective to be met | Tasks to be performed by the students | Assessment question aligned to the task
 :--|:--|:--|:--:
-1.|To perform the task of addition in less time  |To use carry look ahead adder  | Which one of the following is better way to calculate sum in less time 1. n bit parallel adder 2. carry look ahead adder 
+1.|To perform the task of addition in less time  |To use carry look ahead adder  | Which one of the following is better way to calculate sum in less time.</br> 1. n bit parallel adder </br>2. carry look ahead adder 
 2.|The usage of two half adder  | How the logic gates help in calculating various parameters like Pi , Gi |Give the correct formula of Pi and Gi
 
 
