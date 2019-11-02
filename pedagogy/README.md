@@ -28,8 +28,11 @@ To perform the task of addition of two binary number in less time.
 The usage of AND, OR and X-OR gates.
 How to calculate carry generate before addition.</br>
 
-        
-
+Sr.No | Learning Objective |Cognitive Leve | Action Verb
+:--|:--|:--|:--:
+1.|Students will be able to explain the functioning of Carry look ahead adder.  |Understand  |Explain
+2.|Make use of carry look ahead adder student will be able to create logic circuits for ALU.  |Apply |Create        
+3.|Student will be able to evaluate the result of carry look ahead adder for given input as well as for using minimum gate.|Evaluate|Evaluate
 
 <br/>
 
