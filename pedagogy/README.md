@@ -60,8 +60,12 @@ Read the theory and comprehend the concepts related to the experiment.
 <br>
 
 <div>  
-In this section you will get to know what instructions you need to follow to perform carry look ahead adder and even this will test your knowledge as you follow the assessment method and for your reference you can look over to description section
-     <h4>2.1 Instructional Strategy:</h4>  
+Expository : Using this strategy In carry look ahead adder two variables such as “carry propagate” and “carry generate” are defined. The sum is stored in Si and the carry is stored in C(i+1).
+
+In this experiment we have used expository strategy to perform addition of two binary numbers by using minimum number of gates as well as calculate the carry generate, this carry is used for further calculation.
+In this experiment we have also used problem based strategy in which 
+
+  <h4>2.1 Instructional Strategy:</h4>  
 > Select the four  digit input value in A and B</br> > Select the respective Ai and Bi</br> > Enter the value of Ci (0,1) in the respective box</br> > You will get “carry propagate” (Pi) and “carry generate” (Gi)</br> <br><h4>2.2 Assessment Method: </h4></br>Pre test will be taken to check your knowledge and interest in the following experiment.</br> Post test will be taken to check how efficiently you were able to perform the following experiment.</br><h4> 2.3 Description of sections:</h4></br> You will get to know that A and B are those values which are being selected to calculate the sum using carry look ahead adder. Here Ai is the last digit of the number A and Bi is also the last digit of number B. Formula used- </br>                            
 Pi=Ai*Bi’ +Ai’*Bi                  ( Pi is carry propagate) </br>                            Gi=Ai*Bi                         ( Gi is carry generate)</br> 
 Si=Pi*Ci’ + Pi’*Ci                 ( Si is sum) </br>                          
