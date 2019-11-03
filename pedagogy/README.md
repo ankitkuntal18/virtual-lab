@@ -2,7 +2,7 @@
 <p align="center">
 <br>
 <br>
-<b> Experiment:CARRY LOOKAHEAD ADDER  <a name="top"></a> <br>
+<b> Experiment:CARRY LOOK AHEAD ADDER  <a name="top"></a> <br>
 </p>
 
 <b>Discipline | <b>Engineering
@@ -11,13 +11,13 @@
 <b> Experiment|     <b> To calculate addition of two binary numbers with the help of Carry look ahead adder
 <h4> [1. Focus Area:]
 <h4> [2. Instructional Strategy: ]
-<h4> [3.Task & Asswssment Question:]
-<h4> [4. simulator Interaction:]
+<h4> [3.Task & Assessment Question:]
+<h4> [4. Simulator Interaction:]
 <hr>
 
 <a name="LO"></a>
 #### 1. Focus Area :
-Our experiment is all about the addition of two binary numbers. As in ripple carry adders, for each adder block, the two bits that are to be added are available instantly. However, each adder block waits for the carry to arrive from its previous block. So, it is not possible to generate the sum and carry of any block until the input carry is known. The (i)th block waits for the (i-1)th block to produce its carry. So there will be a considerable time delay which is carry propagation delay.It reduces the propagation delay by more complex hardware. It is implemented with the help of logic gates.
+Reinforce Theoretical Concept: Our experiment is all about the addition of two binary numbers. As in ripple carry adders, for each adder block, the two bits that are to be added are available instantly. However, each adder block waits for the carry to arrive from its previous block. So, it is not possible to generate the sum and carry of any block until the input carry is known. The (i)th block waits for the (i-1)th block to produce its carry. So there will be a considerable time delay which is carry propagation delay.It reduces the propagation delay by more complex hardware. It is implemented with the help of logic gates.
 
 <br/>
 
