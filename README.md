@@ -4,13 +4,13 @@
 
 <b>Discipline | <b>Engineering
 :--|:--|
-<b> Lab. | <b>Computer Science and Engineering
-<b> Experiment|     <b> Welcome to Logic Design And Computer Organization Virtual Lab
+<b> Lab | <b>Computer Science and Engineering
+<b> Experiment|     <b> Design of Carry Look Ahead Adder
 
 
 
 <h5> About the Experiment : </h5>
-To calculate addition of two binary numbers with the help of Carry look ahead adder
+Calculate addition of two binary numbers with the help of Carry look ahead adder
 
 <b>Name of Developer | <b> Mr Dhananjay Bisen
 :--|:--|
