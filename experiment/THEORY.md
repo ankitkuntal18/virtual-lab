@@ -1,5 +1,4 @@
-<!doctype html>
-<html> 
+
 
 <head>
 <title> VIRTUAL LAB </title>
