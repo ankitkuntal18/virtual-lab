@@ -54,7 +54,7 @@ Sr.No | Learning Objective |Cognitive Level | Action Verb
 <a name="SI"></a>
 
 #### 2. Instructional Strategy:
-<br>
+
 #### 2.1 Instructional Strategy: Expository and Problem based strategy
 <div>  
 In this experiment we have used expository strategy to perform addition of two binary numbers by using minimum number of gates as well as calculate the carry generate, this carry is used for further calculation. In this experiment we have also used problem based strategy in which student will do following things:</br>
