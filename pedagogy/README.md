@@ -16,14 +16,14 @@
 <hr>
 
 <a name="LO"></a>
-#### 1. Focus Area :
+#### 1.1 Focus Area :
 Our focus area is based on Reinforce Theoretical Concept with experimentation in which we will demonstrate working of the 4 bit carry look-ahead adder and perform experimentation on same. It will work with the help of logic gates like AND, OR, XOR etc.
 
 
-<br/>
 
 
-#### 1.2 About the Experiment:
+
+ #### 1.2 About the Experiment:
 
 Our experiment is all about carry look-ahead adde for each adder block for which the two inputs are added. In carry look-ahead adder two variables such as “carry propagate” and “carry generate” are defined. The sum is stored in Si and the carry is stored in C(i+1). Boolean functions are implemented for carry output such as C2, C3 and C4 then generated. Its complexity is log(n). It reduces the propagation delay by more complex hardware. It is implemented with the help of logic gates such as XOR, AND and OR. Finally we will draw the logic diagram with truth table of different inputs as well as show the time complexity, Delay and Boolean expression of sum and carry output. 
 
@@ -110,29 +110,11 @@ Firstly select Ai and Bi as your inputs from A and B. In the first section two i
 
 Sr.No | Learning Objective to be met | Tasks to be performed by the students | Assessment question aligned to the task
 :--|:--|:--|:--:
-1.|Student will be able to sketch logic diagram of Carry look-ahead adder. |Students will have to: </br>
-- Read theory of Carry look-ahead adder.</br>
-- Select logic gates and other components.</br>
-- Drag and Drop on canvas.</br>
-- Connect each component. </br> 
- | -Identify the name of gates those are the use to draw logic.</br>
--What is AND, OR and XOR gates?</br>
-2.|Students will be able to explain the functioning of Carry look-ahead adder.  | Students will:</br>
-- Give the inputs for parameter A and B.</br>
-- Click on logic Gate step by step to see the output of that Gate.</br>
-- Output of previous Gate will be carry forwarded to Next Gate for further calculation. </br>
- |-What is the purpose of carry Look Ahead adder?</br>
-- Identify the suitable Boolean function of first adder?</br>
-3.|Student will be able to examine the working of Carry look-ahead adder for the different inputs.|- Now for examine the working of Carry Look Ahead adder by inputting different set of input values. |- What is the working of generating carry and sum in CLA.</br>
-- How many numbers of gates are used in experiment?</br>
-4.|Make use of AND, XOR and OR logic gates to evaluate the sum and carry..|Student will:
-- On the basis of given input student will get the sum and carry of each adder.</br>
-- Total sum and final carry will obtain.</br>
-|- How to evaluate the sum of two binary numbers?
-5.|Student will be able to analyze Delay of Carry look-Ahead adder. |- Input the value of time delay for each Gate in the logical circuit..</br>
-- Click on Delay button to calculate Delay..</br>   
-- Calculate and show the time delay for logical circuit..</br>
-|- How to calculate delay of Carry look-ahead adder?
+1.|Student will be able to sketch logic diagram of Carry look-ahead adder. |Students will:</br>have to Read theory of Carry look-ahead adder.</br> Select logic gates and other components.</br>Drag and Drop on canvas.</br>Connect each component.|Identify the name of gates those are the use to draw logic.</br>What is AND, OR and XOR gates?
+2.|Students will be able to explain the functioning of Carry look-ahead adder.| Students will:</br>Give the inputs for parameter A and B.</br>Click on logic Gate step by step to see the output of that Gate.</br>Output of previous Gate will be carry forwarded to Next Gate for further calculation.|What is the purpose of carry Look Ahead adder?</br>Identify the suitable Boolean function of first adder?
+3.|Student will be able to examine the working of Carry look-ahead adder for the different inputs.|Now for examine the working of Carry Look Ahead adder by inputting different set of input values.| What is the working of generating carry and sum in CLA.</br>How many numbers of gates are used in experiment?
+4.|Make use of AND, XOR and OR logic gates to evaluate the sum and carry.|Student will On the basis of given input student will get the sum and carry of each adder.</br>Total sum and final carry will obtain.</br>|How to evaluate the sum of two binary numbers?
+5.|Student will be able to analyze Delay of Carry look-Ahead adder.| Input the value of time delay for each Gate in the logical circuit.</br>Click on Delay button to calculate Delay.</br>Calculate and show the time delay for logical circuit.|How to calculate delay of Carry look-ahead adder
 
 </div>
 
@@ -154,25 +136,9 @@ Sr.No | Learning Objective to be met | Tasks to be performed by the students | A
 
 Sr.No | What students will do? | What Simulator will do ? | Purpose of the task
 :--|:--|:--|:--:
-1.| - Read theory of Carry look-ahead adder.</br>
-- Select logic gates and other components.</br>
-- Drag and Drop on canvas.</br>
-- Connect each component.  </br>
- | - Simulator will show the logical circuit in canvas.| Students will visualize the logic diagram of CLA.
-2.| - Give the inputs for parameter A and B. |- Accept input from student.,</br>
-- Calculate output at each Gate. </br>
-|Student will achieve the output of each Gate.
-3.|- Click on logic Gate step by step to see the output of that Gate.</br>
-- Output of previous Gate will be carry forwarded to next Gate for further calculation.  </br>
-|- Forward output to next Gate for further calculation.|
-4.|- will Now examine the working of Carry Look Ahead adder by inputting different set of input values|- Give output to different set of inputs after passing the input through XOR and AND gate respectively. |Student will get the output at different inputs.|
-5.|Student will:
-- On the basis of given input student will get the sum and carry of each adder.</br>
-- Total sum and final carry will obtain.</br>
-|- Simulator will show the final results in form of Sum and Carry.|Make use of AND, XOR and OR logic gates to evaluate the sum and carry.  
-6.|- Input the value of time delay for each Gate in the logical circuit.</br>
-- Click on Delay button to calculate Delay.  </br> 
-- Calculate and show the time delay for logical circuit.</br>
-|- Accept input from student for Delay calculation.</br>
-- Simulator will give Delay on the basis of given processing time of each Gate.</br>
-|Student will be able to analyze Delay of Carry look-Ahead adder.
+1.|Read theory of Carry look-ahead adder.</br>Select logic gates and other components.</br>Drag and Drop on canvas.</br>Connect each component.|Simulator will show the logical circuit in canvas.| Students will visualize the logic diagram of CLA.
+2.|Give the inputs for parameter A and B. |Accept input from student.</br>Calculate output at each Gate. </br>|Student will achieve the output of each Gate.
+3.|Click on logic Gate step by step to see the output of that Gate.</br>Output of previous Gate will be carry forwarded to next Gate for further calculation.</br>|Forward output to next Gate for further calculation.|what is C(i) generate.
+4.|will Now examine the working of Carry Look Ahead adder by inputting different set of input values|Give output to different set of inputs after passing the input through XOR and AND gate respectively. |Student will get the output at different inputs.
+5.|Student will:</br>On the basis of given input student will get the sum and carry of each adder.</br>Total sum and final carry will obtain.</br>|Simulator will show the final results in form of Sum and Carry.|Make use of AND, XOR and OR logic gates to evaluate the sum and carry.  
+6.|Input the value of time delay for each Gate in the logical circuit.</br>Click on Delay button to calculate Delay.</br>Calculate and show the time delay for logical circuit.</br>|Accept input from student for Delay calculation.</br>Simulator will give Delay on the basis of given processing time of each Gate.</br>|Student will be able to analyze Delay of Carry look-Ahead adder.
