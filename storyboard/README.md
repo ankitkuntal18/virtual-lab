@@ -11,8 +11,7 @@ When user wants to calculate the addition of two binary numbers then the best wa
 ### 2. Story:
 
 In the following experiment firstly the main idea is to get the result of the addition operation in less time. Thus for having result in less time delay, user will choose the carry look ahead adder. In this the  user will give 4 bit inputs each for A and B through which he/she will get the value of Ai and Bi as their main inputs and when these inputs first pass through XOR gate carry propagate (Pi) will be evaluated. Now Ai and Bi passes through AND gate and get the value of carry generate (Gi). The resultant value of Pi and carry input helps user to calculate sum and when the same value of Pi and Ci passes through AND gate and then along with carry Gi passes through OR gate. The total number of bits being entered by the individual will repeat the process that number of time to get the desired output. For easy outlook of the experiment, student will take the reference of truth table. Result of addition operation will be generated below the table.  
-![xyz](images/200.png)
-![xys](images/Table.png)
+
         
 The number of gate levels for the carry propagation can be found from the circuit of full adder. The signal from input carry C(in) to output carry C(out) requires an AND gate and an OR gate, which constitutes two gate levels. So, if there are four full adders in the parallel adder, the output carry C5 would have 2 X 4 = 8 gate levels from C1 to C5. For an n-bit parallel adder, there are 2n gate levels to propagate through.</br></br>
 step 1:
