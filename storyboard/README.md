@@ -160,7 +160,7 @@ Formulae Used:
  
 ### 4 Mindmap:
 
-![sdg](mindmap/FreeMind.exe)
+![sdg](mindmap/FreeMind.Ink)
 
 
 ###  Study of logic gate has been done. Pi and Gi has been calculated and sum has been determined.
