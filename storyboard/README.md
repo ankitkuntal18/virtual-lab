@@ -155,6 +155,8 @@ Formulae Used:
 
 ### 3 Flowchart:
 
+![sdf](images/1.jpg)
+
  
 
 
