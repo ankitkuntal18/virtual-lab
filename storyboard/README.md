@@ -18,7 +18,7 @@ In the following experiment firstly the main idea is to get the result of the ad
 Part 1: a. Visualize the input label “Input the value of Ai” and “Input the value of Bi” on screen and select the values of Ai and Bi by clicking on drop down list of Ai and Bi in first part.<br> 
 b. After that, canvas will appear on which “Draw Logic Diagram” heading is mentioned. It displays:- User has to design a carry look ahead adder on the canvas with the use of the given objects below the canvas. The objects which are present in form of buttons below the canvas are:<br>
 1. Ai: First takes one bit input: In Ai, if 1 is selected then wire will appear green and if 0 is selected then wire will appear red.<br> 
-2. Bi: first takes one bit input: In Bi, if 1 is selected then wire will appear green and if 0 is selected then wire will appear red<br>. 
+2. Bi: first takes one bit input: In Bi, if 1 is selected then wire will appear green and if 0 is selected then wire will appear red. 
 3. AND gate<br>
 4. OR gate<br>
 5. X-OR gate<br>
@@ -106,7 +106,7 @@ ANS 5:-A</br>
 
 When student deals with entering the values in truth table and if he\she enters a wrong value of Ai and Bi. Than for that particular input the current box will appear red for wrong input. The red Color here symbolizes here as a hint.
 
-###2.6 Cunclusion:
+### 2.6  Cunclusion:
 
 From the above experiment of carry look ahead adder student concludes the operations of addition being performed in less time and even students get to know how Gi, Pi, Si and C(i+1) with the use of different gates(AND, OR, X-OR). 
 In the following experiment student will visually come across different logic gates (AND, OR and XOR) also visually see their uses to calculate various parameters such as Ci, Pi, C(i+1) and sum by taking different binary values of Ai , Bi and Ci. Student will even visually connect different gates with the use of other objects to evaluate the result.
@@ -158,6 +158,9 @@ Formulae Used:
 ![sdf](images/1.jpg)
 
  
+### 4 Mindmap:
+
+
 
 
 ###  Study of logic gate has been done. Pi and Gi has been calculated and sum has been determined.
